@@ -9,3 +9,5 @@ This application consists of 4 microservices communicating togather.
 
 
 This application shows how we can configure fallback responses in case microservice is down or not responding.
+
+All the hystrix related changes done in main service movie-service
