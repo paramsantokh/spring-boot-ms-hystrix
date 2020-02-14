@@ -1,6 +1,6 @@
-# spring-boot-microservices
+# spring-boot-microservices with hystrix(working with fallback)
 
-#This application consists of 4 microservices communicating togather.
+This application consists of 4 microservices communicating togather.
 
 1. Discovery service(Eureka) register other three microservice as discovery client.
 2. Movie-info-service provide movie details like movie id, name ,desc etc,
